@@ -32,4 +32,9 @@ uvicorn deploy:app --reload
 http://127.0.0.1:8000
 
 
+# LEARNINGS
+- Built a Logistic Regression model from scratch
+- Understood gradient descent and cost function and the role they play in a Logistic Regression model.
+- Understood and Implemented Feature Scaling. Experienced the importance of feature scaling in training models
+- Deployed a Machine learning Model using FastAPI
 
